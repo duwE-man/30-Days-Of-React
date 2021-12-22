@@ -1,0 +1,10 @@
+.grid-elem {
+  display: grid;
+  grid-template-columns: 25% auto auto auto;
+}
+.grid-image { 
+  width: 100%;
+}
+.header {
+  text-align: center;
+}
